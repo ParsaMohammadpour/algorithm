@@ -1,2 +1,2 @@
-# algorithm assignment
-&emsp; This was algorithm university course 1st assignment.
+# Algorithm assignment
+THis repo contains assignments of Algorithm course at Shahid Beheshti university.
